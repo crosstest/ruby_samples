@@ -1,0 +1,4 @@
+---
+tasks:
+  lint: bundle exec rubocop -D
+
